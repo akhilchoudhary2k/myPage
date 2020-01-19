@@ -1,4 +1,4 @@
 # myPage
 
 This is my first web site.
-go to https://akhilchoudhary2k.github.io/myPage/
+Go to https://akhilchoudhary2k.github.io/myPage/
